@@ -5,8 +5,8 @@ function App(){
     window.changeCounter = changeCounter
     return (
         <div>
-            <h1>{counter}</h1>
-            <h4>{counter}</h4>
+            <h1>Counter: {counter}</h1>
+            <h4>Counter: {counter}</h4>
         </div>
     )
 }
